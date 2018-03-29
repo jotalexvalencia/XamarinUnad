@@ -10,7 +10,7 @@
         static void Main(string[] args)
         {
             string nombre = "Alex";
-            Console.WriteLine($"Hola  mi nombre es : {nombre}");
+            Console.WriteLine($"Que más mi nombre es : {nombre}");
             Console.ReadKey();
         }
     }
