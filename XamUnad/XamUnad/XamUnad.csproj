@@ -49,21 +49,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="imagenes\fila-0-col-0.png" />
-    <Content Include="imagenes\fila-0-col-1.png" />
-    <Content Include="imagenes\fila-0-col-2.png" />
-    <Content Include="imagenes\fila-0-col-3.png" />
-    <Content Include="imagenes\fila-1-col-0.png" />
-    <Content Include="imagenes\fila-1-col-1.png" />
-    <Content Include="imagenes\fila-1-col-2.png" />
-    <Content Include="imagenes\fila-1-col-3.png" />
-    <Content Include="imagenes\fila-2-col-0.png" />
-    <Content Include="imagenes\fila-2-col-1.png" />
-    <Content Include="imagenes\fila-2-col-2.png" />
-    <Content Include="imagenes\fila-2-col-3.png" />
-    <Content Include="imagenes\fila-3-col-0.png" />
-    <Content Include="imagenes\fila-3-col-1.png" />
-    <Content Include="imagenes\fila-3-col-2.png" />
+    <Content Include="img\fila-0-col-0.png" />
+    <Content Include="img\fila-0-col-1.png" />
+    <Content Include="img\fila-0-col-2.png" />
+    <Content Include="img\fila-0-col-3.png" />
+    <Content Include="img\fila-1-col-0.png" />
+    <Content Include="img\fila-1-col-1.png" />
+    <Content Include="img\fila-1-col-2.png" />
+    <Content Include="img\fila-1-col-3.png" />
+    <Content Include="img\fila-2-col-0.png" />
+    <Content Include="img\fila-2-col-1.png" />
+    <Content Include="img\fila-2-col-2.png" />
+    <Content Include="img\fila-2-col-3.png" />
+    <Content Include="img\fila-3-col-0.png" />
+    <Content Include="img\fila-3-col-1.png" />
+    <Content Include="img\fila-3-col-2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

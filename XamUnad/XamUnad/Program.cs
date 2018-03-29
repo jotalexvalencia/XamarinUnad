@@ -9,7 +9,7 @@
     {
         static void Main(string[] args)
         {
-            string nombre = "Alex";
+            string nombre = "Jorge Alexander Valencia";
             Console.WriteLine($"Que más bien  nuevas cosas: {nombre}");
             Console.ReadKey();
         }
