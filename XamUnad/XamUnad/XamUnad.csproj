@@ -49,7 +49,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="img\alexito.jpg" />
+    <Content Include="img\alex.png" />
     <Content Include="img\fila-0-col-0.png" />
     <Content Include="img\fila-0-col-1.png" />
     <Content Include="img\fila-0-col-2.png" />
